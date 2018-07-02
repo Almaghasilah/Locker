@@ -1,1 +1,1 @@
-# Locker
+# Locker is a personal project developed during undergraduate studies.  The project is made of hardware components such as: keypad, LCD and stepper motor.  The programming scripts were developed on Arduino, which communicates with the peripheral such as keypad, LCD and stepper motor.    
